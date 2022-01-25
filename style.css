@@ -1,0 +1,11 @@
+body{
+  margin: 0;
+}
+.uk-panel{
+  width: 540px;
+  margin:20px auto;
+  text-align: justify;
+  box-shadow: 5px 5px 20px lightslategray;
+  padding: 15px;
+  border-radius: 5px;
+}
